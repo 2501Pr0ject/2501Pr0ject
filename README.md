@@ -38,6 +38,8 @@ focus:
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2501Pr0ject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2501Pr0ject&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+
 ### `> ls -la projects/`
 
 | Project | Description | Stack |
