@@ -40,6 +40,8 @@ focus:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2501Pr0ject&theme=tokyo-night&hide_border=true&bg_color=0d1117)
 
+![Snake animation](https://raw.githubusercontent.com/2501Pr0ject/2501Pr0ject/output/github-snake-dark.svg)
+
 ### `> ls -la projects/`
 
 | Project | Description | Stack |
