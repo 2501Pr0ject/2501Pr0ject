@@ -7,6 +7,8 @@
 ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
+![Snake animation](https://raw.githubusercontent.com/2501Pr0ject/2501Pr0ject/output/github-snake-dark.svg)
+
 ```yaml
 # whoami.yml
 name: Abdel
@@ -34,13 +36,9 @@ focus:
 
 ### `> neofetch --stats`
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=2501Pr0ject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2501Pr0ject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2501Pr0ject&theme=tokyo-night&hide_border=true&bg_color=0d1117)
-
-![Snake animation](https://raw.githubusercontent.com/2501Pr0ject/2501Pr0ject/output/github-snake-dark.svg)
 
 ### `> ls -la projects/`
 
