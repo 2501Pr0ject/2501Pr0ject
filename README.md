@@ -12,9 +12,9 @@
 ```yaml
 # whoami.yml
 name: Abdel
-role: AI Project Manager | Data Engineer
+role: AI Project Manager | AI Engineer
 location: France
-currently: Wild Code School
+currently: Freelance
 
 focus:
   - LLM & Multi-Agent Systems
@@ -27,10 +27,10 @@ focus:
 ```json
 {
   "languages": ["Python", "TypeScript", "Go", "SQL"],
-  "ai_ml": ["LangChain", "LangGraph", "RAG", "Mistral AI", "Ollama"],
+  "ai_ml": ["LangChain", "LangGraph", "RAG", "Embeddings", "Fine Tuning", "LLM customization", "ChromaDB"],
   "data": ["DBT", "Prefect", "DuckDB", "PostgreSQL", "MongoDB"],
   "devops": ["Docker", "GitHub Actions", "Cloudflare", "Nginx"],
-  "frontend": ["React", "Angular", "Tailwind CSS"]
+  "frontend": ["React", "Tailwind CSS"]
 }
 ```
 
