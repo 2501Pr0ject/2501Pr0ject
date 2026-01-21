@@ -12,9 +12,10 @@
 ```yaml
 # whoami.yml
 name: Abdel
-role: AI Project Manager | AI Engineer
+role: AI Engineer | Chef de Projet IA
+certification: RNCP 36129 (2025)
 location: France
-currently: Freelance
+status: Open to opportunities
 
 focus:
   - LLM & Multi-Agent Systems
@@ -26,7 +27,7 @@ focus:
 
 ```json
 {
-  "languages": ["Python", "TypeScript", "Go", "SQL"],
+  "languages": ["Python", "TypeScript", "Bash", "SQL"],
   "ai_ml": ["LangChain", "LangGraph", "RAG", "Embeddings", "Fine Tuning", "LLM customization", "ChromaDB"],
   "data": ["DBT", "Prefect", "DuckDB", "PostgreSQL", "MongoDB"],
   "devops": ["Docker", "GitHub Actions", "Cloudflare", "Nginx"],
