@@ -61,7 +61,3 @@ focus:
 ```
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2501Pr0ject&style=flat-square&color=58a6ff" alt="Profile views" />
-</p>
