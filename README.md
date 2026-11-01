@@ -9,8 +9,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/2501Pr0ject/2501Pr0ject/output/github-snake-dark.svg)
 
+### `> whoami.yml`
 ```yaml
-# whoami.yml
 name: Abdel
 role: AI Engineer | Chef de Projet IA
 certification: RNCP 36129 (2025)
@@ -49,6 +49,7 @@ focus:
 ```json
 {
   "portfolio": "https://2501project.dev",
+  "huggingface": "https://huggingface.co/The2501Pr0ject"
   "email": ["contact@2501project.dev", "abdel.touati@gmail.com"],
   "linkedin": "https://www.linkedin.com/in/abdelatif-touati-428808305/"
 }
